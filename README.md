@@ -1,5 +1,5 @@
 
-The Price is An Oversight! By Amy Gonzalez
+The Price is An Oversight
 
 A web application that challenges users to guess the real-time prices of eBay items, combining the thrill of gameplay with real-world data integration. This project was designed with responsiveness, interactivity, and user engagement at its core.
 
